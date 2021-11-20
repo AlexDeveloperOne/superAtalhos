@@ -70,7 +70,75 @@
 
 [Curso de CSS - Curso completo de CSS3 a linguagem oficial de formatação de páginas web](https://www.youtube.com/watch?v=GPK8A-A156o&list=PLx4x_zx8csUi47Bnugpk78nqJN6rYvEnV)
 
-#### [Projeto Site Completo](https://www.youtube.com/watch?v=krRYgDDWG04&list=PLx4x_zx8csUhuE4WHAwvRQbTeQC5lemiA)
+#### Projetos
+
+[Projeto Site Completo](https://www.youtube.com/watch?v=krRYgDDWG04&list=PLx4x_zx8csUhuE4WHAwvRQbTeQC5lemiA)
+
+[🔥Build a Stunning Portfolio Website with React JS [ Framer-motion + Styled-components ]](https://youtu.be/jcohAIaSy2M)
+
+[Responsive navbar tutorial using HTML CSS & JS](https://youtu.be/HbBMp6yUXO0)
+
+[React Landing Page + OnScroll Animation](https://youtu.be/0Zlmpbh1s6o)
+
+[]()
+
+
+#### Full English Course
+
+[Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+
+[JavaScript Programming - Full Course](https://youtu.be/jS4aFq5-91M)
+
+[JavaScript Tutorial for Beginners - Full Course in 8 Hours [2020]](https://youtu.be/Qqx_wzMmFeA)
+
+[Create a Design System with Figma - Full Course](https://youtu.be/RYDiDpW2VkM)
+
+
+
+##### Framework's
+
+[Vue.js Course for Beginners [2021 Tutorial]](https://youtu.be/FXpIoQ_rT_c)
+
+[React JS - React Tutorial for Beginners](https://www.youtube.com/watch?v=Ke90Tje7VS0)
+
+
+
+[React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8)
+
+
+[Full React Course 2020 - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://youtu.be/4UZrsTqkcW4)
+
+
+
+
+##### Others in JS
+
+[Learn JSON in 10 Minutes](https://youtu.be/iiADhChRriM)
+
+[JavaScript Template Literals: JSON to HTML](https://youtu.be/DG4obitDvUA)
+
+[Object-oriented Programming in JavaScript: Made Super Simple | Mosh](https://youtu.be/PFmuCDHHpwk)
+
+[Learn Flexbox in 15 Minutes](https://youtu.be/fYq5PXgSsbE)
+
+[Free Figma Course for Beginners (Complete UI/UX Tutorial)](https://youtu.be/R--xoP7jGkw)
+
+[The Figma 2021 Crash Course by Example](https://youtu.be/Gu1so3pz4bA)
+
+
+
+#### In games
+
+[JavaScript 2D Game Tutorial](https://youtu.be/jl29qI62XPg)
+
+[How To Code The Snake Game In Javascript](https://youtu.be/QTcIXok9wNY)
+
+[Building a JavaScript RPG game + Releasing on Steam (Danger Crew presentation)](https://youtu.be/nHaiLWUaWWw)
+
+[Learn JavaScript by Building 7 Games - Full Course](https://www.youtube.com/watch?v=lhNdUVh3qCc)
+
+[Code a Squid Game JavaScript Game Using Three.js - Tutorial for Beginners](https://youtu.be/4HSxX-EKJjw)
+
 
 
 ### Outros
@@ -84,4 +152,4 @@
 [Como Fazer um Dashboard no Excel - Aula Completa e Detalhada](https://youtu.be/dEsUoltLK78)
 
 
-_________________________________________________________________________________  FIM  _________________________________________________________________________________
+__________________________________  FIM  __________________________________
