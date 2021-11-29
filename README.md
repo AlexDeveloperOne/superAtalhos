@@ -80,7 +80,8 @@
 
 [React Landing Page + OnScroll Animation](https://youtu.be/0Zlmpbh1s6o)
 
-[]()
+[Curso de HTML e CSS GRÁTIS para iniciantes COM PROJETO](https://www.youtube.com/playlist?list=PLwgL9IEA0PxUjbhob9UMdpVq12sGrjgU6)
+
 
 
 #### Full English Course
